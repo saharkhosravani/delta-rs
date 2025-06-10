@@ -9,9 +9,6 @@
   <a href="https://delta-io.github.io/delta-rs/">Python docs</a>
   ·
   <a href="https://docs.rs/deltalake/latest/deltalake/">Rust docs</a>
-  ·
-  <a href="https://github.com/delta-io/delta-rs/issues/new?template=bug_report.md">Report a bug</a>
-  ·
   <a href="https://github.com/delta-io/delta-rs/issues/new?template=feature_request.md">Request a feature</a>
   ·
   <a href="https://github.com/delta-io/delta-rs/issues/1128">Roadmap</a>

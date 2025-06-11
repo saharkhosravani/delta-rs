@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/github/stars/delta-io/delta-rs?logo=github&color=F75101">
   </a>
   <a target="_blank" href="https://crates.io/crates/deltalake" style="background:none">
-    <img alt="Crate" src="https://img.shields.io/crates/v/deltalake.svg?style=flat-square&color=00ADD4&logo=rust" >
   </a>
   <a href="https://pypi.python.org/pypi/deltalake">
     <img alt="Deltalake" src="https://img.shields.io/pypi/v/deltalake.svg?style=flat-square&color=F75101&logo=pypi" >

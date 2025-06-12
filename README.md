@@ -6,7 +6,6 @@
 <p align="center">
   A native Rust library for Delta Lake, with bindings to Python
   <br>
-  <a href="https://delta-io.github.io/delta-rs/">Python docs</a>
   ·
   <a href="https://docs.rs/deltalake/latest/deltalake/">Rust docs</a>
   <a href="https://github.com/delta-io/delta-rs/issues/new?template=feature_request.md">Request a feature</a>

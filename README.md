@@ -12,7 +12,6 @@
   <a href="https://github.com/delta-io/delta-rs/issues/1128">Roadmap</a>
   <br>
   <br>
-  <a href="https://pypi.python.org/pypi/deltalake">
     <img alt="Deltalake" src="https://img.shields.io/pypi/l/deltalake.svg?style=flat-square&color=00ADD4&logo=apache">
   </a>
   <a target="_blank" href="https://github.com/delta-io/delta-rs" style="background:none">

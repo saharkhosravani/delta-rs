@@ -4,7 +4,6 @@
   </a>
 </p>
 <p align="center">
-  A native Rust library for Delta Lake, with bindings to Python
   <br>
   ·
   <a href="https://docs.rs/deltalake/latest/deltalake/">Rust docs</a>

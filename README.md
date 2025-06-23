@@ -9,7 +9,6 @@
   <a href="https://docs.rs/deltalake/latest/deltalake/">Rust docs</a>
   <a href="https://github.com/delta-io/delta-rs/issues/new?template=feature_request.md">Request a feature</a>
   ·
-  <a href="https://github.com/delta-io/delta-rs/issues/1128">Roadmap</a>
   <br>
   <br>
     <img alt="Deltalake" src="https://img.shields.io/pypi/l/deltalake.svg?style=flat-square&color=00ADD4&logo=apache">

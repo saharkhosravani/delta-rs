@@ -6,8 +6,7 @@
 <p align="center">
   <br>
   ·
-  <a href="https://docs.rs/deltalake/latest/deltalake/">Rust docs</a>
-  <a href="https://github.com/delta-io/delta-rs/issues/new?template=feature_request.md">Request a feature</a>
+  <a href="https://docs.rs/deltalake/latest/deltalake/">Rust docs</a
   ·
   <br>
   <br>
